@@ -1,0 +1,1 @@
+import{vt as e}from"../chunks/C_syBiH-.js";import{a as t}from"../chunks/T-SeN3KK.js";import{t as n}from"../chunks/Di8r-ris.js";var r=e({load:()=>i});function i(){n(308,`${t}/#updates`)}export{r as universal};
